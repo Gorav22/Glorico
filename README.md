@@ -14,7 +14,6 @@ Glorico is an AI-powered image generator that allows you to create stunning imag
 Using Glorico is easy. Simply follow these steps:
 
 1. Visit the Glorico website or download the Glorico app.
-2. Create a free account.
 3. Type in a text prompt for the image you want to generate.
 4. Select an art style.
 5. Click "Generate" and wait for a few seconds.
@@ -31,7 +30,7 @@ There are many benefits to using Glorico, including:
 
 ### Pricing
 
-Glorico offers a variety of pricing plans to fit your needs. For personal use, Glorico is free to use. For commercial use, Glorico offers paid plans starting at $9.99 per month.
+Glorico offers a variety of pricing plans to fit your needs. Glorico is free to use which no need any type of account.
 
 ### Contact Us
 
